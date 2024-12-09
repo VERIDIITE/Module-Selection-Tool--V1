@@ -1,0 +1,12 @@
+Name is Kasam  Aftab
+PNo is P2534239
+Email is P2534239:@gmail,.cnm
+Date is 2023-05-23
+Course Name is Computer Science
+Selected Modules:
+Module:[moduleCode=CTEC3451, moduleName=Development Project, moduleCredits=30, mandatory=true, delivery=YEAR_LONG]
+Module:[moduleCode=CTEC3902, moduleName=Rigorous Systems, moduleCredits=15, mandatory=false, delivery=TERM_2]
+Module:[moduleCode=CTEC3911, moduleName=Mobile Application Development, moduleCredits=15, mandatory=false, delivery=TERM_1]
+Module:[moduleCode=IMAT3423, moduleName=Systems Building: Methods, moduleCredits=15, mandatory=true, delivery=TERM_1]
+
+Reserved Modules:
