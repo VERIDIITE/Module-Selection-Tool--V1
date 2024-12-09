@@ -17,6 +17,7 @@ Welcome to the **Third-Year Module Selector Tool** repository! This tool is desi
 ## 🚀 Getting Started
 
 
+![Screenshot 2024-12-09 211755](https://github.com/user-attachments/assets/c8ba78c2-36f1-47a5-baaa-6f403f6537a5)
 
 ---
 
